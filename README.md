@@ -1,8 +1,11 @@
-# ClickerW
+# E-commerce Site
 
-Jogo onde o jogador testa seu reflexo e precisão com o mouse, apresenta o Tempo de reação, Acertos, Erros, Score e Top Score.
+Site em desenvolvimento, utilizando HTML, CSS, Javascript, PHP, JQuery e Bootstrap .
 
-Criado utilizando HTML, CSS e Javascript com o intuito de ampliar e testar conhecimento adquirido no curso "Complete Web Developers Course - Javascript". 
+Projeto pessoal para desenvolver habilidade e conhecimento.
+
+<img src="https://raw.githubusercontent.com/willsouto/Ecommerce---Code-proj/master/img/img1.jpg"></img>
+<img src="https://raw.githubusercontent.com/willsouto/Ecommerce---Code-proj/master/img/img2.jpg"></img>
 
 
 
