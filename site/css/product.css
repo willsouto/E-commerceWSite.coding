@@ -1,0 +1,114 @@
+#main {
+	width: 100%;
+}
+.col-left {
+	float: left;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+body {
+	font-size: 1.4em;
+	line-height: 1.618;
+	color: #6c6360;
+	font-family: "Open Sans", sans-serif;
+	-webkit-text-size-adjust: 100%;
+	text-rendering: optimizeLegibility;
+}
+html {
+	font-size: 62.5%;
+}
+.fix, .col-full {
+	zoom: 1;
+}
+#main.fullwidth, .layout-full #main, .col-full, .no-sidebar #main {
+	max-width: 75.998em;
+	margin: 0 auto;
+	width: 100%;
+}
+body {
+	font-size: 1.4em;
+	line-height: 1.618;
+	color: #6c6360;
+	font-family: "Open Sans", sans-serif;
+	-webkit-text-size-adjust: 100%;
+	text-rendering: optimizeLegibility;
+}
+.fix, .col-full {
+	zoom: 1;
+}
+#main.fullwidth, .layout-full #main, .col-full, .no-sidebar #main {
+	max-width: 75.998em;
+	margin: 0 auto;
+	width: 100%;
+}
+ul.products {
+	margin-left: 0 !important;
+	list-style: none;
+}
+ul, ol, dl, p, table, form, pre, hr {
+	margin: 0 0 1.618em 0;
+}
+ul.products li.product.first {
+	clear: both;
+}
+ul.products li.product {
+	position: relative;
+	float: left;
+	width: 25%;
+	margin-right: 3.8%;
+	margin-left: 3.8%;
+	margin-bottom: 1.618em;
+	text-align: center;
+}
+.product {
+	position: relative;
+}
+
+ul.products li.product img {
+	width: 300px;
+	height: 300px;
+	padding: .53em;
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border: 1px solid #e8e4e3;
+	background: #fff;
+	margin: 0 auto 1em;
+}
+img {
+	vertical-align: bottom;
+	max-width: 100%;
+	height: auto;
+}
+ul.products li.product h3 {
+	margin-bottom: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Bree Serif", sans-serif;
+	color: #363230;
+	margin: 0 0 .618em;
+	font-weight: normal;
+}
+ul.products .star-rating {
+	margin: .5em auto;
+}
+.star-rating {
+	overflow: hidden;
+	position: relative;
+	height: 1em;
+	line-height: 1em;
+	font-size: 1em;
+	width: 5.5em;
+	font-family: "WebSymbolsRegular";
+}
+ul.products li.product .price {
+	display: block;
+	color: #9f9693;
+	margin-bottom: 1em;
+}
