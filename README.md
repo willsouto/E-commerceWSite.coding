@@ -4,8 +4,10 @@ Site em desenvolvimento, utilizando HTML, CSS, Javascript, PHP, JQuery e Bootstr
 
 Projeto pessoal para desenvolver habilidade e conhecimento.
 
-<img src="https://raw.githubusercontent.com/willsouto/Ecommerce---Code-proj/master/img/img1.jpg"></img>
-<img src="https://raw.githubusercontent.com/willsouto/Ecommerce---Code-proj/master/img/img2.jpg"></img>
+><img src="https://raw.githubusercontent.com/willsouto/Ecommerce---Code-proj/master/img/img1.jpg"></img>
+
+<br/>
+><img src="https://raw.githubusercontent.com/willsouto/Ecommerce---Code-proj/master/img/img2.jpg"></img>
 
 
 
